@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@clerk/clerk-react": "^5.22.12",
+    "@clerk/clerk-react": "^5.24.1",
     "@formspree/react": "^2.5.1",
     "axios": "^1.7.9",
     "framer-motion": "^12.4.2",
@@ -21,7 +21,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^7.1.5",
-    "react-toastify": "^11.0.3",
+    "react-toastify": "^11.0.5",
     "react-youtube": "^10.1.0",
     "uniqid": "^5.4.0"
   },
@@ -36,7 +36,7 @@
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.18",
     "globals": "^15.14.0",
-    "postcss": "^8.5.2",
+    "postcss": "^8.5.3",
     "tailwindcss": "^3.4.17",
     "vite": "^6.1.0"
   }

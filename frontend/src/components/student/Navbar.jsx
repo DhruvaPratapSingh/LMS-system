@@ -51,9 +51,6 @@ const Navbar = () => {
 			/>
 			<div className="hidden md:flex items-center gap-5 text-gray-500">
 				<div className="flex items-center gap-5">
-					<Logger/>
-				</div>
-				<div className="flex items-center gap-5">
 					{user && (
 						<>
 							<button onClick={becomeEducator}>{isEducator ? "Educator Dashboard" : "Become Educator" }</button>|{" "}

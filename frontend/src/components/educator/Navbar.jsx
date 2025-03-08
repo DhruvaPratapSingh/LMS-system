@@ -1,4 +1,3 @@
-import React from "react";
 import { assets, dummyEducatorData } from "../../assets/assets";
 import { UserButton, useUser } from "@clerk/clerk-react";
 import { Link } from "react-router-dom";
@@ -13,9 +12,6 @@ const Navbar = () => {
 			</Link>
 
 			<div className="flex items-center gap-5 text-gray-500 relative">
-				<div className="hidden md:block">
-					<Logger />
-				</div>
 				<p>Hi! {user ? user.fullName : "Developers"} </p>
 				{user ? (
 					<UserButton />

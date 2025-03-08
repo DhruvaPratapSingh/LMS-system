@@ -11,7 +11,7 @@ const About = () => {
 		<>
 			<div className="w-full mx-auto px-6 py-12 bg-gradient-to-b from-cyan-100/40">
 				<h1 className="text-4xl font-bold text-center text-gray-800 mb-6">
-					About Edemy LMS
+					About Eassy LMS
 				</h1>
 				<p className="text-lg text-gray-600 text-center mb-8">
 					Empowering learners and educators with a seamless online learning

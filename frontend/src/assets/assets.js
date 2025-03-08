@@ -110,24 +110,24 @@ export const dummyEducatorData = {
 export const dummyTestimonial = [
     {
         name: 'Sophia Carter',
-        role: 'Student @ AKTU',
+        role: 'Student',
         image: assets.abhishek,
         rating: 5,
-        feedback: 'Edemy LMS has revolutionized my teaching experience. The platform is intuitive, making course creation and student engagement seamless.',
+        feedback: 'Eassy LMS has revolutionized my teaching experience. The platform is intuitive, making course creation and student engagement seamless.',
     },
     {
         name: 'Shreyansh Dubey',
-        role: 'Student @ KNIT',
+        role: 'Student',
         image: assets.shreyansh,
         rating: 4.8,
-        feedback: 'Edemy LMS provides an exceptional learning environment. The structured courses, real-time tracking, and user-friendly interface are top-notch.',
+        feedback: 'Eassy LMS provides an exceptional learning environment. The structured courses, real-time tracking, and user-friendly interface are top-notch.',
     },
     {
         name: 'Olivia Martinez',
         role: 'Software Engineer @ Microsoft',
         image: assets.profile_img_3,
         rating: 4.7,
-        feedback: 'Edemy LMS is a fantastic platform for upskilling. Its diverse course library and smooth UI make learning highly effective and engaging.',
+        feedback: 'Eassy LMS is a fantastic platform for upskilling. Its diverse course library and smooth UI make learning highly effective and engaging.',
     },
 ];
 
