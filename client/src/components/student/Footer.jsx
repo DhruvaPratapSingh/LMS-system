@@ -67,13 +67,12 @@ const Footer = () => {
 						</button>
 					</div>
 					<div className=" ml-8 mt-5 md:ml-0 md:mt-0">
-
 					<SocialIcons />
 					</div>
 				</div>
 			</div>
 			<p className="py-4 text-center text-xs md:text-sm text-white/60">
-				Copyright 2025 © Edemy by GPS. All Right Reserved.
+				Copyright 2025 © Edemy by DPS. All Right Reserved.
 			</p>
 		</footer>
 	);
