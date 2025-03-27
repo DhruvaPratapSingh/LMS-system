@@ -63,7 +63,7 @@ Edemy LMS is a full-stack learning management system (LMS) that provides educato
  │   │   │   ├── CourseDetails.jsx
  │   │   │   ├── CoursesList.jsx
  │   │   │   ├── Home.jsx
- │   │   │   ├── MyEnrollMents.jsx
+ │   │   │   ├── MyEnrollments.jsx
  │   │   │   ├── Player.jsx
  │   │   ├── App.jsx
  │   │   ├── index.css
