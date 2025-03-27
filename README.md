@@ -40,41 +40,40 @@ Edemy LMS is a full-stack learning management system (LMS) that provides educato
 
 ### **Frontend (client/)**
 
-📦 client
- ├── 📂 src
- │   ├── 📂 assets
- │   ├── 📂 components
- │   │   ├── 📂 educator
- │   │   │   ├── Footer.jsx
- │   │   │   ├── Navbar.jsx
- │   │   │   ├── Sidebar.jsx
- │   │   ├── 📂 student
- │   │   │   ├── Logger.jsx
- │   ├── 📂 context
- │   │   ├── AppContext.jsx
- │   ├── 📂 pages
- │   │   ├── 📂 educator
- │   │   │   ├── AddCourse.jsx
- │   │   │   ├── Dashboard.jsx
- │   │   │   ├── Educator.jsx
- │   │   │   ├── MyCourses.jsx
- │   │   │   ├── StudentsEnrolled.jsx
- │   │   ├── 📂 student
- │   │   │   ├── CourseDetails.jsx
- │   │   │   ├── CoursesList.jsx
- │   │   │   ├── Home.jsx
- │   │   │   ├── MyEnrollments.jsx
- │   │   │   ├── Player.jsx
- │   │   ├── App.jsx
- │   │   ├── index.css
- │   │   ├── main.jsx
- ├── 📜 .env
- ├── 📜 .gitignore
- ├── 📜 package.json
- ├── 📜 tailwind.config.js
- ├── 📜 vite.config.js
-
-
+.
+└── 📦 client/
+    ├── ├── 📂 src
+    ├── │   ├── 📂 assets
+    ├── │   ├── 📂 components
+    ├── │   │   ├── 📂 educator
+    ├── │   │   │   ├── Footer.jsx
+    ├── │   │   │   ├── Navbar.jsx
+    ├── │   │   │   ├── Sidebar.jsx
+    ├── │   │   ├── 📂 student
+    ├── │   │   │   ├── Logger.jsx
+    ├── │   ├── 📂 context
+    ├── │   │   ├── AppContext.jsx
+    ├── │   ├── 📂 pages
+    ├── │   │   ├── 📂 educator
+    ├── │   │   │   ├── AddCourse.jsx
+    ├── │   │   │   ├── Dashboard.jsx
+    ├── │   │   │   ├── Educator.jsx
+    ├── │   │   │   ├── MyCourses.jsx
+    ├── │   │   │   ├── StudentsEnrolled.jsx
+    ├── │   │   ├── 📂 student
+    ├── │   │   │   ├── CourseDetails.jsx
+    ├── │   │   │   ├── CoursesList.jsx
+    ├── │   │   │   ├── Home.jsx
+    ├── │   │   │   ├── MyEnrollments.jsx
+    ├── │   │   │   ├── Player.jsx
+    ├── │   │   ├── App.jsx
+    ├── │   │   ├── index.css
+    ├── │   │   ├── main.jsx
+    ├── ├── 📜 .env
+    ├── ├── 📜 .gitignore
+    ├── ├── 📜 package.json
+    ├── ├── 📜 tailwind.config.js
+    └── ├── 📜 vite.config.js
 
 ### **Backend (server/)**
 
