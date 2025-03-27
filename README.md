@@ -79,26 +79,26 @@ Edemy LMS is a full-stack learning management system (LMS) that provides educato
 ### **Backend (server/)**
 
 📦 server
- ├── 📂 configs
- │   ├── cloudinary.js
- │   ├── mongodb.js
- │   ├── multer.js
- ├── 📂 controllers
- │   ├── courseController.js
- │   ├── educatorController.js
- │   ├── userController.js
- │   ├── webhooks.js
- ├── 📂 middlewares
- │   ├── authMiddleware.js
- ├── 📂 models
- │   ├── Course.js
- │   ├── CourseProgress.js
- │   ├── Purchase.js
- │   ├── User.js
+ ├── 📂 configs |
+     ├── cloudinary.js |
+     ├── mongodb.js |
+     ├── multer.js |
+ ├── 📂 controllers |
+     ├── courseController.js |
+     ├── educatorController.js |
+     ├── userController.js |
+     ├── webhooks.js |
+ ├── 📂 middlewares |
+     ├── authMiddleware.js
+ ├── 📂 models |
+     ├── Course.js |
+     ├── CourseProgress.js |
+     ├── Purchase.js |
+     ├── User.js |
  ├── 📂 routes
- │   ├── courseRoute.js
- │   ├── educatorRoutes.js
- │   ├── userRoutes.js
+     ├── courseRoute.js |
+     ├── educatorRoutes.js |
+     ├── userRoutes.js |
  ├── 📜 .env
  ├── 📜 .gitignore
  ├── 📜 package.json
@@ -128,10 +128,8 @@ Edemy LMS is a full-stack learning management system (LMS) that provides educato
 | *Course Page* | ![Course](https://github.com/user-attachments/assets/c771c4f0-2614-4be8-8106-14f3cfc32856) |
 | *My Enrollments* | ![Enrollments](https://github.com/user-attachments/assets/cf884299-ed49-4453-bf46-b443ecc6f913) |
 | *Player Page* | ![player](https://github.com/user-attachments/assets/06574610-7459-43fc-8fa3-193b0ce5f1d4)|
-| *Educator Dashboard* | ![dashboaard](https://github.com/user-attachments/assets/da37d9c1-8f14-4a54-aa9d-1c4bb0ee4b95)
- |
-| *Add Course* | ![addCourses](https://github.com/user-attachments/assets/7659cae9-c55b-4449-a18a-f4801a36f9f0)
- |
+| *Educator Dashboard* | ![dashboaard](https://github.com/user-attachments/assets/da37d9c1-8f14-4a54-aa9d-1c4bb0ee4b95)|
+| *Add Course* | ![addCourses](https://github.com/user-attachments/assets/7659cae9-c55b-4449-a18a-f4801a36f9f0)|
 | *My Courses* | ![myCourses](https://github.com/user-attachments/assets/46ebabcc-0344-46d9-81c3-ba3a87a22a70)
  |
 
